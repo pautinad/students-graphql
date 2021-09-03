@@ -1,0 +1,7 @@
+.idea
+*.iml
+.gradle
+.vscode
+/package-lock.json
+/node_modules/
+/target/
